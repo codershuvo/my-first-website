@@ -1,7 +1,2 @@
 # my-first-website
-# my-first-website
-# my-first-website
-# my-first-website
-# my-first-website
-# my-first-website
-# my-first-website
+### I am writing in redme file
